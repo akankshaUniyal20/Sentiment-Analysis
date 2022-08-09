@@ -1,0 +1,3 @@
+vectoriser-ngram-(1,2).pickle
+is more than 25mb that why not uploaded.
+Get that from Main code .
