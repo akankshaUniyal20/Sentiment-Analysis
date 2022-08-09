@@ -6,6 +6,9 @@ sentiments of the tweets.
 The necessary details regarding the dataset are:
   Dataset contains 1,600,000 tweets extracted using the twitter api . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment .
   
+Datset from Kaggle
+https://www.kaggle.com/datasets/kazanova/sentiment140
+  
 Methods use for Pre-processing the text:
 1. Casing - Converting letter to lower case or upper case
 2. Noise removal (eliminating unwanted characters)
